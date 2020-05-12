@@ -1,1 +1,2 @@
 # Number_Plate_Detector
+My first mini-project in OpenCV. In this project, I have programmed a Number Plate Detector. When a picture is shown, the program draws a recange around the scanned number plate and labels it as "Number PLate". When the key 's' is pressed on the keyboard, the age of the scanned number plate is saved in "Resources/Scanned" folder and the image number is changed for every new picture. 
